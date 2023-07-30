@@ -1,7 +1,10 @@
 [![NPM](https://img.shields.io/npm/l/react)](https://github.com/marciosenaf/botao-dark/blob/main/README.md)
 
-# Documentação do Site com Modo Escuro/Claro
+## Layout
+![Web](https://github.com/marciosenaf/botao-dark/blob/main/imageredme.png)
 
+# Documentação do Site com Modo Escuro/Claro
+https://github.com/marciosenaf/botao-dark/blob/main/imageredme.png
 ## Descrição
 Este repositório contém o código-fonte de um site construído em React e JavaScript. O site possui um botão que permite alternar entre os modos claro e escuro. Esta documentação tem o objetivo de orientar o desenvolvedor sobre como executar o projeto localmente e explicar o funcionamento do botão de alternância de temas.
 
