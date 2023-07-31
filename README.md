@@ -41,6 +41,6 @@ O modo atual será armazenado localmente no navegador do usuário, permitindo qu
 
 # Autor
 
-Márcio Sena Santos Filho
+Márcio Sena
 
 https://www.linkedin.com/in/marciosenaf/
